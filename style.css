@@ -53,3 +53,15 @@ section .card ul li {
   font-weight: 400;
   font-size: 0.75rem;
 }
+
+.about-bg {
+  background-color: #fff;
+}
+
+.form-width {
+  width: 30%;
+}
+
+.form-height {
+  height: 70%;
+}
